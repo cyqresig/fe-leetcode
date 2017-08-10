@@ -45,3 +45,5 @@ var strStr = function(haystack, needle) {
   
 * 空间复杂度: O(1)
 
+
+****** 注：应用线性算法降低复杂度 ******
