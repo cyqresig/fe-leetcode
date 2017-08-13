@@ -37,6 +37,7 @@ var strStr = function(haystack, needle) {
     return -1;
 };
 ```
+
 ### 复杂度分析
 
 * 时间复杂度：O( (n - m + 1) * m )
